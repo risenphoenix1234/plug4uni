@@ -6,7 +6,7 @@ import HowItWorks from '../components/Howitworks'
 import FreshListings from '../components/Freshlistings'
 import Testimonials from '../components/Testimonials'
 import CTABanner from '../components/CTABanner'
-import Footer from '../components/Footer '
+import Footer from '../components/Footer'
 
 export default function Home() {
   return (
